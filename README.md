@@ -4,7 +4,7 @@
 ![](Z88_RS232_PC.jpg)  
 ![](Z88_RS232_PC.svg)
 
-PCB: https://oshpark.com/shared_projects/w1GYezbu
+PCB: https://oshpark.com/shared_projects/w1GYezbu  
 BOM: https://www.digikey.com/short/zfdrnv
 
 Z88_RS232_PC converts the Z88 serial port to a PC style com port.  
@@ -17,7 +17,7 @@ This adapter is most convenient for using peripherals designed for use with a st
 ![](Z88_RS232_Model_T_2.jpg)  
 ![](Z88_RS232_Model_T.svg)
 
-PCB: https://oshpark.com/shared_projects/cCj4Skb4
+PCB: https://oshpark.com/shared_projects/cCj4Skb4  
 BOM: https://www.digikey.com/short/zfdrnz
 
 Z88_RS232_Model_T converts the Z88 serial port to a "Model T" style serial port.  
